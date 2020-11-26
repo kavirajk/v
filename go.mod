@@ -1,3 +1,3 @@
-module github.com/kavirajk/v/v2
+module github.com/kavirajk/v/v3
 
 go 1.15
